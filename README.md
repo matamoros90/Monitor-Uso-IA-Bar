@@ -6,6 +6,12 @@ De un vistazo muestra el consumo y el tiempo de renovación de cada servicio, co
 
 **Creado por:** Marlon Matamoros · **Versión:** 1.4.0 · **Plataforma:** macOS
 
+## Capturas de pantalla
+
+| Panel de uso | Configuración | Acerca de Medidor |
+| --- | --- | --- |
+| ![Panel de uso de Claude y ChatGPT](capturas/panel.png) | ![Preferencias de Medidor](capturas/configuracion.png) | ![Versión y creador de Medidor](capturas/acerca-de.png) |
+
 ## Uso
 
 1. Cierra la versión anterior de Medidor antes de abrir `Medidor_1.4.app`.
