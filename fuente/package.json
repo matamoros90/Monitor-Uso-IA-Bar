@@ -1,0 +1,9 @@
+{
+  "name": "medidor",
+  "productName": "Medidor",
+  "version": "1.4.0",
+  "description": "Uso de Claude y ChatGPT en la barra de menú de macOS",
+  "main": "main.js",
+  "license": "UNLICENSED",
+  "private": true
+}
